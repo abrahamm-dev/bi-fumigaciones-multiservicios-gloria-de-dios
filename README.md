@@ -52,4 +52,4 @@ El proyecto está documentado de forma secuencial siguiendo las fases del diplom
 
 **Abraham Javier Arguello Rivas**  
 *Data Analyst & Business Intelligence Specialist*  
-🔗 Conecta conmigo en [LinkedIn] (https://www.linkedin.com/in/abraham-arguello-504958400/)
+🔗 Conecta conmigo en LinkedIn (https://www.linkedin.com/in/abraham-arguello-504958400/)
